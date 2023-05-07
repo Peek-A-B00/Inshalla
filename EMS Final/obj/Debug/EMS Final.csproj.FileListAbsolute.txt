@@ -1,0 +1,16 @@
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.exe.config
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.exe
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\bin\Debug\EMS Final.pdb
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.AssemblyReference.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Employee.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Home.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Login.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Splash.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Properties.Resources.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.exe
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS Final.pdb
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.ViewEmployee.resources
+C:\Users\Hamza\source\repos\EMS Final\EMS Final\obj\Debug\EMS_Final.Salary.resources
